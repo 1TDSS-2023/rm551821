@@ -63,3 +63,9 @@
     flex-grow: 1;
     flex-shrink: 1;
 }
+
+.tit-sec{
+    text-align: center;
+    margin: 2% 0;
+    font-size: 2em;
+}
